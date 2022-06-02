@@ -1,0 +1,29 @@
+p{
+margin: 0 auto;
+width:100px;
+background-color: #D6D6D6;
+padding: 5px 20px 10px 10px;
+}
+
+h1{
+color: #E56456;
+text-align: center;
+tex-shadow: 2px 2px 3px black;
+}
+html{
+
+font-family: 'Oswald', sans-serif;
+//font-family: 'Roboto Slab', serif;
+font-family: 'Spline Sans Mono', monospace;
+
+
+
+background-color:#AEDBF8;
+
+}
+body{
+margin: 0 auto;
+//align: center;
+width: 600px;
+background-color: #E9D629;
+}
